@@ -98,6 +98,28 @@ button{
   animation: up_animation 1.5s;
 }
 
+#content{
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  top: 100%; 
+  background-color: rgb(210, 210, 210);
+}
+
+#Illustration_pics{
+  justify-content: center;
+  align-items: center;
+
+}
+
+#Illustration_img{
+  width: 256px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
 @keyframes up_animation{
   0%{
     top: 15%;
