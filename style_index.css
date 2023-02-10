@@ -111,19 +111,9 @@ button{
   background-color: rgb(210, 210, 210);
 }
 
-#Illustration_pics{
-  display: flex;
-  justify-content: center;
-}
-
 #Illustration_img{
   width: 256px;
   height: 256px;
-}
-
-#Design-pics{
-  display: flex;
-  justify-content: center;
 }
 
 #Design-img{
