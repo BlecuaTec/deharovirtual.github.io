@@ -1,5 +1,5 @@
 *{
-font-family: extb;
+font-family: AOTFShinGoProHeavy;
 font-weight: 100;
 
 }
@@ -80,6 +80,8 @@ button{
 }
 
 #logo {
+  width: 400px;
+  height: 400px;
   position: relative;
   margin-left: auto;
   margin-right: auto;
