@@ -161,6 +161,35 @@ button{
   height: 256px;
 }
 
+#Music-links{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  align-items: center;
+
+}
+
+#Music{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+#Music-links a{
+  width: 256px;
+
+}
+
+#Music-links a button img{
+  width: 100%;
+
+
+}
+
 @keyframes up_animation{
   0%{
     top: 15%;
