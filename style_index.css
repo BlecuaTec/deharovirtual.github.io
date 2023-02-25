@@ -80,13 +80,13 @@ body{
   text-decoration: none;
 }
 
-button{
+#link{
   position: relative;
   background-color: transparent;
   border-color: transparent;
   top: -100%;
   width: 100px;
-  height: 10px;
+  height: 100px;
   font-size: large;
 }
 
@@ -164,9 +164,13 @@ button{
 }
 
 #seemore{
+  text-align: center;
   width: 100%;
   position: relative;
   top: 0%;
+  font-size: medium;
+  text-decoration: none;
+  color: black;
 }
 
 #Illustration_img{

@@ -106,6 +106,12 @@ body{
 
 }
 
+#link{
+  width: 150px;
+  height: 150px;
+
+}
+
 #content h2{
   font-size: 40px;
   font-weight: bolder;
