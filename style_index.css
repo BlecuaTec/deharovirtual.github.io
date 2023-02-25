@@ -162,6 +162,7 @@ button{
 }
 
 #seemore{
+  width: 100%;
   position: relative;
   top: 0%;
 }
