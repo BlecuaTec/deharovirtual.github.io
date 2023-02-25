@@ -54,6 +54,8 @@ body{
   margin-left: 40px;
   font-weight: bolder;
   font-family: 'medium';
+  text-decoration: none;
+  color: black;
 }
 
 #buttons{
