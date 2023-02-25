@@ -96,10 +96,12 @@ button{
   justify-content: center;
   align-items: center;
   height:100vw;
-  width:100hv;
+  width:102%;
   left:-2%;
   top:-55%;
   background-image: url(Imgs/General/banner_fixed.png);
+  background-repeat: repeat-x;
+  background-repeat: repeat-y;
 }
 
 #logo {
